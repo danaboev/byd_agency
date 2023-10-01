@@ -6,4 +6,7 @@
   - sass
   - gulp
   - mpm
+  - js
+  - php
+  - animation
   - 
