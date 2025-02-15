@@ -11,4 +11,3 @@ landung page site for tour agrncy
   - js
   - php
   - animation
-  - 
