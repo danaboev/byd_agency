@@ -1,7 +1,7 @@
 # byd_agency
 сайт для тур фирмы которая предоставляет услуги WORK&TRAVEL-для студентов
 
-landung page site for tour agrncy
+landing page site for tour agency
 
   - html
   - css
